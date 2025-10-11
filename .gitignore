@@ -1,0 +1,5 @@
+/venv
+/text
+.env
+articles.json
+categorized.json
